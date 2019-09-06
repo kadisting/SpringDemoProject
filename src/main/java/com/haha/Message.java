@@ -1,5 +1,7 @@
 package com.haha;
 
+import org.springframework.web.bind.annotation.RequestParam;
+
 /**
  * Created by xupanpan on 19/07/2017.
  */
